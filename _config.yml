@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: T. Luke Smallman
+email: t.l.smallman@ed.ac.uk
+description: >- # this means to ignore newlines until "baseurl:"
+I am a research fellow for the UK's National Centre for Earth Observations (NCEO), based in the School of GeoSciences, University of Edinburgh. My research focus on combining process-models of terrestrial ecosystems with observations to improve our understanding of ecosystem state, function and underlying traits.
+
+A key software tool for my research is the CARbon DAta-MOdel fraMework (CARDAMOM) and the DALEC suite of intermediate complexity models (Link to repo). CARDAMOM is a Bayesian model-data fusion (MDF) approach which utilised an Adaptive Proposal-Markov Chain Monte Carlo (AP-MCMC) allowing us to calibrate DALEC independently for every location across the globe. The DALEC suite of models simulate the terrestrial C-cycle at a range of process-representation complexities. In combination, these tools allow for the (i) diagnosing where and when we are most uncertain in our understanding of the terrestrial C-cycle, (ii) quantify the information content of ecologically relevant observations, (iii) identify strategies to improve our confidence and (iv) evaluate alternate hypotheses embedded in models by confronting them with observations.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lsmallma.github.io/ProfessionalProfile" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  lsmallma
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
