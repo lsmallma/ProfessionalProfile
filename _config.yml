@@ -29,7 +29,7 @@ twitter_username: jekyllrb
 github_username: lsmallma
 
 # Build settings
-theme: Architect # Architect, Cayman, Dinky, Hacker, Leap day, Merlot, Midnight, Minima, Minimal, Modernist, Slate, Tactile, Time machine
+theme: architect # architect, cayman, dinky, hacker, leap day, merlot, midnight, minima, minimal, modernist, slate, tactile, time machine
 plugins:
   - jekyll-feed
 
