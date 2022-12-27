@@ -29,9 +29,11 @@ twitter_username: jekyllrb
 github_username: lsmallma
 
 # Build settings
-theme: architect # architect, cayman, dinky, hacker, leap day, merlot, midnight, minima, minimal, modernist, slate, tactile, time machine
+#theme:  # architect, cayman, dinky, hacker, leap day, merlot, midnight, minima, minimal, modernist, slate, tactile, time machine
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
