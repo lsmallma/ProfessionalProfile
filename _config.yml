@@ -29,11 +29,9 @@ twitter_username: jekyllrb
 github_username: lsmallma
 
 # Build settings
-#theme:  # See supported themes pages.github.com/themes/
-remote_theme: pages-themes/cayman@v0.2.0
+#theme: minima # See supported themes pages.github.com/themes/
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
