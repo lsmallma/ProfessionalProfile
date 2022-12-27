@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publicatons
-permalink: /ProfessionalProfile/Publicatons/
+title: Publications
+permalink: /ProfessionalProfile/Publications/
 ---
 
 Here is a list of my peer reviewed publications, for an official list please see [University of Edinburgh Research Explorer](https://www.research.ed.ac.uk/en/persons/luke-smallman)
