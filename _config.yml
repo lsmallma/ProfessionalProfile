@@ -29,7 +29,7 @@ twitter_username: jekyllrb
 github_username: lsmallma
 
 # Build settings
-#theme: minima # See supported themes pages.github.com/themes/
+theme: minima # See supported themes pages.github.com/themes/
 plugins:
   - jekyll-feed
 
