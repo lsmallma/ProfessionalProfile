@@ -8,7 +8,8 @@ Here is a list of my peer-reviewed publications, for an official version please 
 
 List to be completed
 
-<font size = "4"> **2022** </font>
+<font size = "6"> **2022** </font>
+<font size = "6"> 2022 </font>
 
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
