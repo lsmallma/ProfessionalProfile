@@ -10,6 +10,7 @@ List to be completed
 
 <font size = "6"> **2022** </font>
 <font size = "6"> 2022 </font>
+**2022**
 
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
