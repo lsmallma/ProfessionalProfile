@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+Is this the home page, where a nice big image would be really exciting?
