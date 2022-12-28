@@ -13,4 +13,4 @@ ADD FIGURE OF ECOSYSTEM FUNCTION / CREATE ONE?
 
 A key software tool for my research is the CARbon DAta-MOdel fraMework ([CARDAMOM](https://github.com/GCEL/CARDAMOM)) and the DALEC suite of intermediate complexity models CARDAMOM is a Bayesian model-data fusion (MDF) approach which utilised an Adaptive Proposal-Markov Chain Monte Carlo (AP-MCMC) allowing us to calibrate DALEC independently for every location across the globe. The DALEC suite of models simulate the terrestrial C-cycle at a range of process-representation complexities.
 
-ADD FIGURE OF CARDAMOM?
+![Example CARDAMOM framework](/ProfessionalProfile/assets/CARDAMOM_scheme.png)
