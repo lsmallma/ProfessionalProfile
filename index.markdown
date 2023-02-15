@@ -5,7 +5,7 @@
 layout: default
 ---
 
-I am a terrestrial ecologist and research fellow for the UK's National Centre for Earth Observations (NCEO), based in the School of GeoSciences, University of Edinburgh.
+I am a Research Fellow in the University of Edinburgh’s School of GeoSciences and an activity lead at the UK’s National Centre for Earth Observation (NCEO). My research focuses on understanding how ecosystems function, their impact on land-atmosphere exchanges of carbon and water, and their sensitivity to changes in climate and disturbance (e.g. fire and land use). I achieve this through combining simulation models of varied complexity and observations spanning in-situ measurement at field level through to global scale Earth Observation (EO).
 
 Terrestrial ecosystems play a major role in the global carbon cycle, underpinning ecosystem services including climate regulation.
 
