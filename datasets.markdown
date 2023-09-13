@@ -40,13 +40,3 @@ Smallman, T. L., Williams, M. (2018). Aggregated Canopy Model for Gross Primary 
 
 Exbrayat, J-F. (Creator), Williams, M. (Creator), **Smallman, T. L.** (Creator) (7 Mar 2018). CARDAMOM pantropical retrievals 2000-2015. Edinburgh DataShare. doi: 10.7488/ds/2317
 
-**2017**
-
-
-**2015**
-
-
-**2014**
-
-**2013**
-
