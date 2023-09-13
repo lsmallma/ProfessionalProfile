@@ -6,6 +6,16 @@ permalink: /publications/
 
 Here is a list of my peer-reviewed publications, for an official version please see my University of Edinburgh [Research Explorer page](https://www.research.ed.ac.uk/en/persons/luke-smallman) or on my [google scholar page](https://scholar.google.co.uk/citations?user=gCKVfVoAAAAJ&hl=en)
 
+**2023**
+
+Basso, L. S., Wilson, C., Chipperfield, M. P., Tejada, G., Cassol, H. L. G., Arai, E., Williams, M., **Smallman, T. L.**, Peters, W., Naus, S., Miller, J. B., & Gloor, M. (2023). Atmospheric CO2 inversion reveals the Amazon as a minor carbon source caused by fire emissions, with forest uptake offsetting about half of these emissions. Atmospheric Chemistry and Physics, 2023. [https://doi.org/10.5194/acp-23-9685-2023](https://doi.org/10.5194/acp-23-9685-2023)
+
+Williams, M., George, S. P., **Smallman, T. L.**, Manuel Dupuy, J., Hernandez-Stefanoni, J. L., & Milodowski, D. (Accepted/In press). Isolating the effects of land use and functional variation on Yucatán's forest biomass under global change. Frontiers in Forests and Global Change. [https://www.frontiersin.org/articles/10.3389/ffgc.2023.1204596/abstract](https://www.frontiersin.org/articles/10.3389/ffgc.2023.1204596/abstract)
+
+Milodowski, D. T., **Smallman, T. L.**, & Williams, M. (2023). Scale variance in the carbon dynamics of fragmented, mixed-use landscapes estimated using model–data fusion. Biogeosciences, 20(15), 3301-3327. [https://doi.org/10.5194/bg-20-3301-2023](https://doi.org/10.5194/bg-20-3301-2023)
+
+Norton, A. J., Bloom, A. A., Parazoo, N. C., Levine, P. A., Ma, S., Braghiere, R. K., & **Smallman, T. L.** (2023). Improved process representation of leaf phenology significantly shifts climate sensitivity of ecosystem carbon balance. Biogeosciences, 20(12), 2455-2484. [https://doi.org/10.5194/bg-20-2455-2023](https://doi.org/10.5194/bg-20-2455-2023)
+
 **2022**
 
 Myrgiotis, V., **Smallman, T. L.**, & Williams, M. (2022). The carbon budget of the managed grasslands of Great Britain - informed by earth observations. Biogeosciences. [https://bg.copernicus.org/articles/19/4147/2022/](https://bg.copernicus.org/articles/19/4147/2022/)
